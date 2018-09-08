@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+  color: rgb(57, 119, 235);
+  font-weight: normal;
+}
